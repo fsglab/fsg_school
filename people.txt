@@ -1,4 +1,6 @@
 Liste von Leute und ihre Aufgabe
 
 Paul Luis: Leiter des Projekts
-Finn: Grundriss des Untergeschosses
+Finn Evers: Grundriss des Untergeschosses
+Finn Wetterau: Modellieren eines Fensters
+Egor: Grundriss des Obergeschosses
